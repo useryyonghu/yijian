@@ -2,11 +2,11 @@
 
 #请勿删除该预制空变量，后续会赋予将安装后的用户角色编号
 setup_subnet_roles_nu=1,2,3,5
-developer_allowed_access_net=
-tester_allowed_access_net=
-manager_allowed_access_net=
-bussiness_allowed_access_net=
-robots_allowed_access_net=
+developer_allowed_access_net=1
+tester_allowed_access_net=2
+manager_allowed_access_net=3
+bussiness_allowed_access_net=4
+robots_allowed_access_net=5
 # set -x
 
 INSTALL_DIR=/etc/openvpn
